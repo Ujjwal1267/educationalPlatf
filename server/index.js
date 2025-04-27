@@ -26,7 +26,7 @@ app.use(cookieParser());
 // ✅ NEW CORS setup
 const allowedOrigins = [
   "http://localhost:3000",
-  "https://educational-platf.vercel.app"
+  "https://educational-platf-l6qa.vercel.app/"
 ];
 
 app.use(
